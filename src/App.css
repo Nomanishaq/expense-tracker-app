@@ -35,6 +35,8 @@ h1 {
 h2{
   font-weight: 100;
   line-height: 90px;
+  text-align: center;
+  align-items: center;
 }
 
 h3 {
