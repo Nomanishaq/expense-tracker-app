@@ -164,3 +164,9 @@ p{
   font-size: 12px;
   /* margin-left: 5px; */
 }
+
+@media (max-width: 400px) {
+  .container {
+    width: 300px;
+  }
+}
